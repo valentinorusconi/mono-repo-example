@@ -15,6 +15,7 @@
     "outDir": "dist",
     "moduleResolution": "node",
     "resolveJsonModule": true,
+    "experimentalDecorators": true,
     "declaration": true,
     "jsx": "react"
   },
